@@ -128,6 +128,7 @@ jobs:
           TVNC_CLIENT_NOTIFS_ENABLED: true
           TVNC_KEEPALIVE_SEC: 15
           TVNC_ORIENTATION_SYNC: true
+          TVNC_ORIENTATION_PAD_FIX: true
           TVNC_NATURAL_SCROLL: false
           TVNC_AUTO_ASSIST_ENABLED: false
           TVNC_SERVER_CURSOR: false
