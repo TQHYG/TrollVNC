@@ -128,10 +128,10 @@ jobs:
           TVNC_CLIENT_NOTIFS_ENABLED: true
           TVNC_KEEPALIVE_SEC: 15
           TVNC_ORIENTATION_SYNC: true
-          TVNC_ORIENTATION_PAD_FIX: true
+          TVNC_ORIENTATION_PAD_FIX: false
           TVNC_NATURAL_SCROLL: false
           TVNC_AUTO_ASSIST_ENABLED: false
-          TVNC_SERVER_CURSOR: false
+          TVNC_SERVER_CURSOR: true
           TVNC_BONJOUR_ENABLED: false
           TVNC_KEY_LOGGING: false
           # Optional secrets (empty when not defined)
